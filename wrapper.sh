@@ -4,4 +4,4 @@ echo "Nginx is running..."
 
 exec nginx -g "daemon off;"
 
-echo "Negative lookbackboom boom boom hello blah hello final"
+echo "Hacky boom boom boom hello blah hello final"
