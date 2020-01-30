@@ -4,4 +4,4 @@ echo "Nginx is running..."
 
 exec nginx -g "daemon off;"
 
-echo "boom boom boom boom"
+echo "rarrrr boom boom boom boom"
