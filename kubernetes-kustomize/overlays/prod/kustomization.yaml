@@ -1,6 +1,6 @@
 imageTags:
   - name: jwilliams12/simpleapp
-    newTag: 1.0.20
+    newTag: 1.0.21
     metadata:
       labels:
         app: simpleapp
