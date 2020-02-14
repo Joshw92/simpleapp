@@ -1,6 +1,9 @@
 imageTags:
   - name: jwilliams12/simpleapp
     newTag: 1.0.19
+    commonLabels:
+      app: simpleapp
+      environment: uat
 resources:
 - deployment.yaml
 - service.yaml
