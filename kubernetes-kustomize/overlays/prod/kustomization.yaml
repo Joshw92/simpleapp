@@ -1,6 +1,10 @@
 imageTags:
   - name: jwilliams12/simpleapp
     newTag: 1.0.20
+    metadata:
+      labels:
+        app: simpleapp
+        environment: prod
 resources:
 - deployment.yaml
 - service.yaml

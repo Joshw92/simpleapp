@@ -3,7 +3,7 @@ kind: Deployment
 metadata:
   labels:
     app: simpleapp
-    environment: uat
+    environment: '${parameters.environment}'
   name: simpleapp
 spec:
   replicas: 3
