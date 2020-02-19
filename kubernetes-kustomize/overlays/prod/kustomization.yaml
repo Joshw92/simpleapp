@@ -1,6 +1,6 @@
 imageTags:
   - name: jwilliams12/simpleapp
-    newTag: '${ parameter.version }'
+    newTag: 1.0.23
 commonLabels:
   app: simpleapp
 resources:
