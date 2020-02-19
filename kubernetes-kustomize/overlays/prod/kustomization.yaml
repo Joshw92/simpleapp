@@ -3,7 +3,6 @@ imageTags:
     newTag: 1.0.23
 commonLabels:
   app: simpleapp
-  environment: prod
 resources:
 - deployment.yaml
 - service.yaml
