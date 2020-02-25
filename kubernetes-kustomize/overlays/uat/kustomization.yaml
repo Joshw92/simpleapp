@@ -3,7 +3,6 @@ imageTags:
     newTag: 0c5dca9
 commonLabels:
   app: simpleapp
-  environment: uat
 resources:
 - deployment.yaml
 - service.yaml
