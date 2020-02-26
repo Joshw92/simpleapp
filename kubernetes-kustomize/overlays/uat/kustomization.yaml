@@ -1,6 +1,5 @@
 imageTags:
   - name: jwilliams12/simpleapp
-    newTag: ff67a34
 commonLabels:
   app: simpleapp
 resources:
